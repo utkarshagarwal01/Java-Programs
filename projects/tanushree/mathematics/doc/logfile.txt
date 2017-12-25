@@ -1,0 +1,38 @@
+Project documentation
+<---- javadoc command: ---->
+c:\jdk1.3.1_08\bin\javadoc.exe
+-sourcepath
+C:\jdk1.3.1_08\bin\mathematics
+-classpath
+E:\BlueJ\lib\junit.jar
+-d
+C:\jdk1.3.1_08\bin\mathematics\doc
+-doctitle
+mathematics
+-windowtitle
+mathematics
+-link
+http://java.sun.com/j2se/1.4/docs/api/
+-author
+-version
+-nodeprecated
+-package
+C:\jdk1.3.1_08\bin\mathematics/HCF.java
+C:\jdk1.3.1_08\bin\mathematics/annuallycompound.java
+C:\jdk1.3.1_08\bin\mathematics/LCM.java
+C:\jdk1.3.1_08\bin\mathematics/threeD.java
+C:\jdk1.3.1_08\bin\mathematics/input_matrix.java
+C:\jdk1.3.1_08\bin\mathematics/minimum_balance.java
+C:\jdk1.3.1_08\bin\mathematics/quadratic.java
+C:\jdk1.3.1_08\bin\mathematics/tTable.java
+C:\jdk1.3.1_08\bin\mathematics/equations.java
+C:\jdk1.3.1_08\bin\mathematics/simple.java
+C:\jdk1.3.1_08\bin\mathematics/coordinate.java
+C:\jdk1.3.1_08\bin\mathematics/area.java
+C:\jdk1.3.1_08\bin\mathematics/class1.java
+C:\jdk1.3.1_08\bin\mathematics/sales_tax.java
+C:\jdk1.3.1_08\bin\mathematics/recurring.java
+C:\jdk1.3.1_08\bin\mathematics/data.java
+<---- end of javadoc command ---->
+javadoc: Error fetching URL: http://java.sun.com/j2se/1.4/docs/api/package-list
+1 error

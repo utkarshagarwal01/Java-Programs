@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=empcode\ basicpay\ n\ r
+comment0.target=Overtime(int,\ double,\ int,\ double)
+comment1.params=
+comment1.target=double\ calculate_sal()
+comment2.params=
+comment2.target=void\ show_val()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

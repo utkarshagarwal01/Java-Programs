@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ coordinate
+comment1.params=
+comment1.target=void\ point()
+comment2.target=x
+comment3.target=in
+comment4.params=
+comment4.target=void\ reflection()
+comment5.params=
+comment5.target=void\ section()
+comment6.params=a\ b
+comment6.target=int\ hcf(int,int)
+comment7.params=
+comment7.target=void\ distance()
+comment8.target=y
+numComments=9

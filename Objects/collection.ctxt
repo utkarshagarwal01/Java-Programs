@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=collection()
+comment1.params=l
+comment1.target=collection(int)
+comment2.params=
+comment2.target=void\ inparr()
+comment3.params=
+comment3.target=void\ arrange()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=A\ B
+comment5.target=collection\ common(collection,\ collection)
+comment6.params=
+comment6.target=void\ main()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ prime(int)
+comment1.params=a\ b
+comment1.target=void\ prime_nos_between_2_nos(int,\ int)
+comment2.params=n
+comment2.target=void\ sum_of_prime_digits(int)
+numComments=3

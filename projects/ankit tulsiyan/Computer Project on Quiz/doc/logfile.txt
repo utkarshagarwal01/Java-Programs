@@ -1,0 +1,23 @@
+Project documentation
+<---- javadoc command: ---->
+javadoc
+-sourcepath
+D:\Computer Project on Quiz
+-classpath
+F:\BLUEJ\lib\junit.jar
+-d
+D:\Computer Project on Quiz\doc
+-doctitle
+Computer Project on Quiz
+-windowtitle
+Computer Project on Quiz
+-link
+http://java.sun.com/j2se/1.4/docs/api/
+-author
+-version
+-nodeprecated
+-package
+D:\Computer Project on Quiz/Quiz.java
+<---- end of javadoc command ---->
+javadoc: Error fetching URL: http://java.sun.com/j2se/1.4/docs/api/package-list
+1 error

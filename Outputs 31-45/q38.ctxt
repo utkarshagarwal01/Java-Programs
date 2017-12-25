@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=q38()
+comment1.params=x
+comment1.target=void\ readData(int)
+comment2.params=v
+comment2.target=int\ someprocess(int)
+comment3.params=
+comment3.target=void\ someoutput()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

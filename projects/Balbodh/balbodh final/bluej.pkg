@@ -1,0 +1,22 @@
+#BlueJ package file
+package.editor.height=423
+package.editor.width=668
+package.editor.x=22
+package.editor.y=0
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=windows-1252
+target1.editor.height=870
+target1.editor.width=1618
+target1.editor.x=-9
+target1.editor.y=-9
+target1.height=90
+target1.name=quiz
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=450
+target1.x=110
+target1.y=100

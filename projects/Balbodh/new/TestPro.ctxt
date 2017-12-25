@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=void\ main(String)
+comment1.params=pos
+comment1.target=void\ recurse(int)
+numComments=2

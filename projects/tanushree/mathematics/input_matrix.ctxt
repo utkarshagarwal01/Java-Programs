@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ input_matrix
+comment1.target=in
+comment2.params=a\ n
+comment2.target=void\ multiply(int[][],int)
+comment3.params=a
+comment3.target=void\ disp(int[][])
+comment4.params=p
+comment4.target=int[][]\ transpose(int[][])
+comment5.params=n\ r\ c
+comment5.target=int[][]\ sub(int,int,int)
+comment6.params=r\ c
+comment6.target=int[][]\ inp(int,int)
+comment7.params=n\ r\ c
+comment7.target=int[][]\ add(int,int,int)
+numComments=8

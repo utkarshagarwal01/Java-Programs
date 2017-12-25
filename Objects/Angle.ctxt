@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Angle()
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=T1\ T2
+comment3.target=Angle\ sum(Angle,\ Angle)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

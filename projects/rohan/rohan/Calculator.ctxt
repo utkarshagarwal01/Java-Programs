@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment0.text=\r\n\ Called\ by\ the\ browser\ or\ applet\ viewer\ to\ inform\ this\ Applet\ that\ it\r\n\ has\ been\ loaded\ into\ the\ system.\ It\ is\ always\ called\ before\ the\ first\ \r\n\ time\ that\ the\ start\ method\ is\ called.\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ ActionListener\ Interface\ method.\r\n\ Called\ when\ action\ events\ occur\ with\ registered\ components\ that\r\n\ can\ fire\ action\ events.\r\n\ @param\ \ ae\ \ \ the\ ActionEvent\ object\ created\ by\ the\ event\r\n
+numComments=3

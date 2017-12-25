@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=class\ SchoolProject
+comment1.target=xxx
+comment10.target=z
+comment10.text=Arrays\:-\nz[]\=It\ is\ an\ array\ which\ stores\ the\ name\ of\ all\ the\ elements\nzz[]\=It\ is\ an\ array\ which\ stores\ the\ atomic\ number\ of\ all\ the\ elements\nzzz[]\=It\ is\ an\ array\ which\ stores\ the\ symbol\ of\ all\ the\ elements\nzzzz[]\=It\ is\ an\ array\ which\ stores\ the\ electronic\ configuration\ of\ all\ the\ elements\ \ \n
+comment11.target=zzz
+comment12.params=
+comment12.target=void\ init()
+comment13.target=zzzz
+comment14.target=xy
+comment15.target=s
+comment15.text=s\:-It\ is\ a\ string\ which\ retrieves\ the\ data\ inputted\ in\ the\ text\ field(text1)\ and\ stores\ in\ it\nmsg\:-It\ is\ a\ string\ used\ to\ display\ a\ message\ asking\ the\ user\ to\ input\nww\:-It\ is\ a\ string\ used\ to\ display\ "ERROR"\ if\ the\ user's\ input\ is\ incorrect\ \ \n
+comment2.target=text1
+comment3.target=msg
+comment3.text=s\:-It\ is\ a\ string\ which\ retrieves\ the\ data\ inputted\ in\ the\ text\ field(text1)\ and\ stores\ in\ it\nmsg\:-It\ is\ a\ string\ used\ to\ display\ a\ message\ asking\ the\ user\ to\ input\nww\:-It\ is\ a\ string\ used\ to\ display\ "ERROR"\ if\ the\ user's\ input\ is\ incorrect\ \ \n
+comment4.target=zz
+comment5.params=e\ ob
+comment5.target=boolean\ action(Event,Object)
+comment6.target=f1
+comment7.target=ww
+comment7.text=s\:-It\ is\ a\ string\ which\ retrieves\ the\ data\ inputted\ in\ the\ text\ field(text1)\ and\ stores\ in\ it\nmsg\:-It\ is\ a\ string\ used\ to\ display\ a\ message\ asking\ the\ user\ to\ input\nww\:-It\ is\ a\ string\ used\ to\ display\ "ERROR"\ if\ the\ user's\ input\ is\ incorrect\ \ \n
+comment8.params=g
+comment8.target=void\ paint(Graphics)
+comment9.target=f
+comment9.text=Fonts\:-\nFont\ command\ creates\ an\ individual\ font\ object\nf\=sets\ the\ font\ to\ be\ dispalyed\ of\ size\ 45\ and\ which\ is\ displayed\ in\ normal\ format\nxy\=sets\ the\ font\ to\ be\ dispalyed\ of\ size\ 15\ and\ which\ is\ displayed\ in\ bold\ format\nxxx\=sets\ the\ font\ to\ be\ dispalyed\ of\ size\ 50\ and\ which\ is\ displayed\ in\ bold\ format\nf1\=\=sets\ the\ font\ to\ be\ dispalyed\ of\ size\ 18\ and\ which\ is\ displayed\ in\ italic\ format\ \n
+numComments=16

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b\ e
+comment0.target=double\ power(double,\ int)
+comment1.params=n
+comment1.target=int\ fact(int)
+comment2.params=x\ n
+comment2.target=void\ s5(double,\ int)
+numComments=3

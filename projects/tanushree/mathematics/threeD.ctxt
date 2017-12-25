@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=class\ threeD
+comment1.params=
+comment1.target=void\ hemisphere()
+comment10.params=
+comment10.target=void\ cuboid()
+comment11.target=tsa
+comment2.params=
+comment2.target=void\ cube()
+comment3.params=
+comment3.target=void\ hemispherical_shell()
+comment4.params=
+comment4.target=void\ spherical_shell()
+comment5.params=
+comment5.target=void\ sphere()
+comment6.target=csa
+comment7.target=vol
+comment8.params=
+comment8.target=void\ cone()
+comment9.target=in
+numComments=12

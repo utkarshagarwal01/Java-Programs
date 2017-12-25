@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=class\ data
+comment1.target=in
+comment2.params=n\ s\ m\ aa\ balance
+comment2.target=String[][]\ input(int,int,String,int[],double[])
+numComments=3

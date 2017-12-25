@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=class\ squareroot
+comment0.text=THE\ SQUARE\ ROOT\ IN\ THIS\ PROGRAMME\ IS\nCALCULATED\ BY\ LONG\ DIVISION\ METHOD\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=n
+comment2.target=double\ cal(double)
+numComments=3

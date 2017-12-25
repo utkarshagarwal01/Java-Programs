@@ -1,0 +1,24 @@
+Class documentation
+<---- javadoc command: ---->
+d:\sun\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.4
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+D:\Documents and Settings\Yadu\My Documents\trial\doc
+-classpath
+D:\BlueJ\lib\junit.jar
+D:\Documents and Settings\Yadu\My Documents\trial\SchoolProject1.java
+<---- end of javadoc command ---->
+Loading source file D:\Documents and Settings\Yadu\My Documents\trial\SchoolProject1.java...
+D:\Documents and Settings\Yadu\My Documents\trial\SchoolProject1.java:10: ';' expected
+ String z[]= {"Hydrogen","Helium","Lithium","Berrylium","Boron","Carbon","Nitrogen","Oxygen",
+ ^
+1 error
